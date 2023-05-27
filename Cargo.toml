@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 varatube-io = { path = "io" }
-ft-io = { git = "https://github.com/gear-dapps/fungible-token.git", tag = "0.1.5" }
+ft-io = { git = "https://github.com/gear-dapps/fungible-token.git", tag = "0.1.6" }
 gstd = { git = "https://github.com/gear-tech/gear.git", features = ["debug"], rev = "5c685d0f15c412ab6ee019ceaf7ce084426dfb68" }
 gmeta = { git = "https://github.com/gear-tech/gear", rev = "5c685d0f15c412ab6ee019ceaf7ce084426dfb68" }
 
@@ -15,7 +15,7 @@ gmeta = { git = "https://github.com/gear-tech/gear", rev = "5c685d0f15c412ab6ee0
 [dev-dependencies]
 gtest = { git = "https://github.com/gear-tech/gear", rev = "5c685d0f15c412ab6ee019ceaf7ce084426dfb68" }
 varatube-io = { path = "io" }
-ft-io = { git = "https://github.com/gear-dapps/fungible-token.git", tag = "0.1.5" }
+ft-io = { git = "https://github.com/gear-dapps/fungible-token.git", tag = "0.1.6" }
 gstd = { git = "https://github.com/gear-tech/gear.git", features = ["debug"], rev = "5c685d0f15c412ab6ee019ceaf7ce084426dfb68" }
 gmeta = { git = "https://github.com/gear-tech/gear", rev = "5c685d0f15c412ab6ee019ceaf7ce084426dfb68" }
 
